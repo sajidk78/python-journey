@@ -1,0 +1,11 @@
+Name =input("Enter your name: ")
+Age  =int(input("Enter your age: "))
+City =input("Enter your city: ")
+Goal =input("Enter your goal: ")
+
+print()
+print("----STUDENT CARD----")
+print("Name: ", Name)
+print("Age: ",Age)
+print("City: ",City)
+print("Goal: ",Goal)
