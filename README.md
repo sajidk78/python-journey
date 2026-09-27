@@ -1,14 +1,47 @@
-# Python Journey 🐍
+# 🐍 Python Journey
 
-My journey to becoming a Python Developer.
+Hi, I'm Sajid! 👋
 
-## Progress Log
+I'm an aspiring Python Full-Stack Developer. This repository documents my learning journey, daily practice, and projects.
 
-- Day 1 — Python basics, Hello World, and Profile Card
-- Day 2 — Operators, Strings, F-Strings, Discount Calculator, and Profile Upgrade
-- Day 3 — Conditions, Login Validation, Ticket Price Checker, and Profile Validation
-- Day 4 — For Loops, While Loops, Break, Continue, Number Guessing Game, and Multiple Profile Cards
+## 🎯 My Goal
+To become a Python Full-Stack Developer by learning and building real-world applications.
 
-## Current Goal
+## 📚 Learning Progress
 
-Become a Python Developer through practical, project-based learning.
+| Day | Topics | Status |
+|-----|--------|--------|
+| Day 01 | Variables, Data Types, Input/Output | ✅ |
+| Day 02 | Operators, Strings, f-Strings | ✅ |
+| Day 03 | Conditional Statements | ✅ |
+| Day 04 | Loops | ✅ |
+| Day 05 | Upcoming Lesson | ⏳ |
+
+## 🛠️ Technologies
+- Python
+- Git & GitHub
+- HTML & CSS (Upcoming)
+- JavaScript (Upcoming)
+- Django (Upcoming)
+
+## 📂 Repository Structure
+- Day01
+- Day02
+- Day03
+- Day04
+
+## 🚀 My Learning Approach
+- Daily coding practice
+- Solving programming problems
+- Building real-world projects
+- Uploading my progress to GitHub
+
+## 📈 Future Goals
+- Master Python
+- Learn Frontend Development
+- Learn Backend Development
+- Build Full-Stack Applications
+- Create a professional portfolio
+
+---
+**Learning every day, one step at a time.** 💻
