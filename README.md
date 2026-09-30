@@ -15,7 +15,7 @@ To become a Python Full-Stack Developer by learning and building real-world appl
 | Day 02 | Operators, Strings, f-Strings | ✅ |
 | Day 03 | Conditional Statements | ✅ |
 | Day 04 | Loops | ✅ |
-| Day 05 | Upcoming Lesson | ⏳ |
+| Day 05 | List | ✅ |
 
 ## 🛠️ Technologies
 - Python
@@ -29,6 +29,7 @@ To become a Python Full-Stack Developer by learning and building real-world appl
 - Day02
 - Day03
 - Day04
+- Day05
 
 ## 🚀 My Learning Approach
 - Daily coding practice
