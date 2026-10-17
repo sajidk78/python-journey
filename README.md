@@ -16,6 +16,7 @@ To become a Python Full-Stack Developer by learning and building real-world appl
 | Day 03 | Conditional Statements | ✅ |
 | Day 04 | Loops | ✅ |
 | Day 05 | List | ✅ |
+| Day 06 | Tuples,Sets,Dictuonaries| ✅ |
 
 ## 🛠️ Technologies
 - Python
@@ -30,6 +31,7 @@ To become a Python Full-Stack Developer by learning and building real-world appl
 - Day03
 - Day04
 - Day05
+- Day06
 
 ## 🚀 My Learning Approach
 - Daily coding practice
