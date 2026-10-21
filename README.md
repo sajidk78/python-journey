@@ -17,6 +17,9 @@ To become a Python Full-Stack Developer by learning and building real-world appl
 | Day 04 | Loops | ✅ |
 | Day 05 | List | ✅ |
 | Day 06 | Tuples,Sets,Dictuonaries| ✅ |
+| Day 07 | Functions| ✅ |
+
+
 
 ## 🛠️ Technologies
 - Python
@@ -32,6 +35,7 @@ To become a Python Full-Stack Developer by learning and building real-world appl
 - Day04
 - Day05
 - Day06
+- Day07
 
 ## 🚀 My Learning Approach
 - Daily coding practice
