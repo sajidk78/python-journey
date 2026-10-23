@@ -18,6 +18,8 @@ To become a Python Full-Stack Developer by learning and building real-world appl
 | Day 05 | List | ✅ |
 | Day 06 | Tuples,Sets,Dictuonaries| ✅ |
 | Day 07 | Functions| ✅ |
+| Day 08 | File handling & Error handling| ✅ |
+
 
 
 
@@ -36,6 +38,7 @@ To become a Python Full-Stack Developer by learning and building real-world appl
 - Day05
 - Day06
 - Day07
+- Day08
 
 ## 🚀 My Learning Approach
 - Daily coding practice
